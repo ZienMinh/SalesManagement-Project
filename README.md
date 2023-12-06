@@ -46,3 +46,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## License
 
+(c) Vien Minh Licensed under the [MIT LICENSE](LICENSE).
